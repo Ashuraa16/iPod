@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/iPod/static/css/main.f1d13618.css",
+    "main.js": "/iPod/static/js/main.0e48d55a.js",
+    "static/media/Rap-God---Eminem-320(PagalWorld).mp3": "/iPod/static/media/Rap-God---Eminem-320(PagalWorld).7f947753e8e8a9fbd15e.mp3",
+    "static/media/Faded (Slowed And Reverb)(audiosong.in).mp3": "/iPod/static/media/Faded (Slowed And Reverb)(audiosong.in).f8f6c478904d8ccba9f4.mp3",
+    "static/media/Shape-of-You-(Lofi)(PagalWorldl).mp3": "/iPod/static/media/Shape-of-You-(Lofi)(PagalWorldl).c597350516af90416764.mp3",
+    "static/media/XXXTENTACION-Hope.mp3": "/iPod/static/media/XXXTENTACION-Hope.7a18e28d20f4cd1018da.mp3",
+    "static/media/Jai Shri Ram.mp3": "/iPod/static/media/Jai Shri Ram.04ecd410c1b837bfe446.mp3",
+    "static/media/wallpaper2.jpg": "/iPod/static/media/wallpaper2.e7033bf4bd686d5ad7bc.jpg",
+    "static/media/wallpaper1.jpg": "/iPod/static/media/wallpaper1.8942bb8a45feed044516.jpg",
+    "static/media/music.jpg": "/iPod/static/media/music.c385231b4bfe0891cc99.jpg",
+    "static/media/game.jpg": "/iPod/static/media/game.32ff27ff819ba9aac52d.jpg",
+    "static/media/wallpaper3.jpg": "/iPod/static/media/wallpaper3.66225ac3d69b7864863f.jpg",
+    "static/media/Rap God - Eminem.jpg": "/iPod/static/media/Rap God - Eminem.f00c0d1c74b6cc7f8fb7.jpg",
+    "static/media/jai shree ram.jpg": "/iPod/static/media/jai shree ram.28e8e110363a6da2b472.jpg",
+    "static/media/faded.jpg": "/iPod/static/media/faded.6d520b29111752f5a12e.jpg",
+    "static/media/settings.png": "/iPod/static/media/settings.9bc43f25a527271f7965.png",
+    "static/media/shap of you.webp": "/iPod/static/media/shap of you.a3c56c1039c466c6a826.webp",
+    "static/media/XXXTENTACION.jpg": "/iPod/static/media/XXXTENTACION.dfa01cfbf89e792803e0.jpg",
+    "index.html": "/iPod/index.html",
+    "main.f1d13618.css.map": "/iPod/static/css/main.f1d13618.css.map",
+    "main.0e48d55a.js.map": "/iPod/static/js/main.0e48d55a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1d13618.css",
+    "static/js/main.0e48d55a.js"
+  ]
+}
