@@ -13,7 +13,7 @@ class Wheel extends React.Component {
 
     //Bind component with zingtouch logic
     componentDidMount() {
-        const { changeMenuBackward, togglePlayPause, seekSongForward, seekSongReverse } = this.props;
+        const { changeMenuBackward, togglePlayPause, seekSongForward, seekSongReverse ,setBackgroundColor} = this.props;
         const wheelControll = this.wheelControll;
         const wheel = document.getElementById("wheel");
         const activeRegion = ZingTouch.Region(wheel);
@@ -111,7 +111,7 @@ class Wheel extends React.Component {
 
 
     render() {
-        const { changeMenuForward, active, currentMenu, theme, wheelColor } = this.props;
+        const { changeMenuForward, active, currentMenu, theme, wheelColor,setBackgroundColor } = this.props;
 
         return (
             <div className="wheel-container" id="wheel-container">

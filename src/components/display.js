@@ -10,6 +10,7 @@ import Playing from './Playing';
 import Themes from './Themes';
 import Wallpaper from './Wallpaper';
 import WheelColor from './WheelColor';
+import Background from './background';
 
 
 // On the basis of what the current menu is this item will render only that component
@@ -35,6 +36,7 @@ class Display extends React.Component {
                 {currentMenu===8&&<Themes active={active}/>}
                 {currentMenu===9&&<WheelColor active={active}/>}
                 {currentMenu===10&&<Wallpaper active={active}/>}
+                {currentMenu===11&&<Background active={active}/>}
             </div>
         );
     }
